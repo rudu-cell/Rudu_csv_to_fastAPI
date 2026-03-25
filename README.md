@@ -1,2 +1,1 @@
-# Rudu_csv_to_fastAPI
-# Rudu_csv_to_fastAPI
+This is Rudu's Repo don't open it without my explicit permission otherwise legal notice will be sent to you (idiot).
