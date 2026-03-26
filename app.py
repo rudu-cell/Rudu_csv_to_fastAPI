@@ -5,7 +5,7 @@ app = FastAPI()
 
 @app.get("/")
 def home():
-    return {"message": "Hello FastAPI"}
+    return {"message": "Hello Niggers"}
 
 @app.get("/get-csv-data")
 def get_csv_data():
